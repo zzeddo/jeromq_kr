@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\3rdparty\\libzmq-v141-x64-4_3_2\\jeromq-0.5.2.jar"
+    ]
+}
